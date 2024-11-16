@@ -121,9 +121,7 @@
 
 * 🔍 **Private sequence database for your lab** 🔍
   * Ancestry and progeny of all resources.
-  * Rich queries:
-    * Alleles of a certain gene
-    * Plasmids with a given marker
+  * Rich queries (e.g., alleles of a certain gene, plasmids with a given marker)
 * 🧫 **Strain and cell line support** 🧫
   * Genotypes as arrays of alleles.
   * Alleles as cloning strategies starting from wt locus.
@@ -134,7 +132,6 @@
 * 📎 **Attach supporting evidence** 📎
   * Gel images
   * Sequencing data (auto-aligned).
-
 * 📜📩**One Click Export/Report/Share/Publish**📩📜
   * Generate "Materials and Methods" text and files.
   * Generate publisher-specific tables (e.g., STAR).
